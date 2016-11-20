@@ -1,8 +1,7 @@
-﻿---
+---
 published: true
 title: What Personal APIs can learn from the Internet of Things
 ---
-
 ![IMG_20160428_204324698-01-500x418.jpeg]({{site.baseurl}}/media/IMG_20160428_204324698-01-500x418.jpeg)
 Many IoT devices exist in an occasionally connected state. For both battery and bandwidth conservation, most IoT devices are only intermittently connected. They sleep between data collection points, only connecting to cloud resources to transmit data for status. This presents a challenge in communication, placing the burden of interrupted communication on the consuming service.
 
@@ -16,7 +15,7 @@ Establishing a cloud representation of individual people brings all the benefits
 
 Our connectivity as humans is limited by gaps in cellular coverage, but more significantly by our need to not be glued to our digital devices.
 
-Personal APIs can serve to answer questions about us without directly interfacing with us. If I’ve granted permission, you should be able to ask about my food preferences and allergies, request a phone call, or send me a message. You can do all these things no matter my physical location, cellular connection status, or my preferences for interruption.
+Personal APIs can serve to answer questions about us without directly interfacing with us. If I�ve granted permission, you should be able to ask about my food preferences and allergies, request a phone call, or send me a message. You can do all these things no matter my physical location, cellular connection status, or my preferences for interruption.
 
 Since the beginning of the Internet, we humans, the 'users' of the Internet, have been granted online presence only through the graces of established 'always on' businesses. With the exception of those who arranged their own domain, DNS, and hosting, most humans are represented online only by companies who sell access to us for a profit. Our presence on the Internet is shaped by their financial desires. 
 
