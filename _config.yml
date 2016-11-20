@@ -78,8 +78,8 @@ analytics:
 # Site Author
 author:
   name             : "Sam Curren"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  avatar           : http://www.gravatar.com/avatar/a8467f519570ebe54c0fae03c6b7c3f9.png?s=80 # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Husband, father, traveler, maker."
   location         : "USA"
   email            :
   uri              :
@@ -92,7 +92,7 @@ author:
   github           :
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : telegramsam
   lastfm           :
   linkedin         :
   pinterest        :
