@@ -3,6 +3,7 @@ published: true
 title: What Personal APIs can learn from the Internet of Things
 ---
 ![IMG_20160428_204324698-01-500x418.jpeg]({{site.baseurl}}/media/IMG_20160428_204324698-01-500x418.jpeg)
+
 Many IoT devices exist in an occasionally connected state. For both battery and bandwidth conservation, most IoT devices are only intermittently connected. They sleep between data collection points, only connecting to cloud resources to transmit data for status. This presents a challenge in communication, placing the burden of interrupted communication on the consuming service.
 
 A pattern has emerged in IoT that uses a cloud resource for an IoT device. The cloud resource acts as a highly available proxy for the device itself, usually containing a record of last device state, data history, and allowing messages or data to be queued to the device. An occasionally connected temperature sensor can now make its temperature information highly available without maintaining a constant connection.
