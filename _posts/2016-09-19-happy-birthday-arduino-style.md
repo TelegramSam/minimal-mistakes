@@ -1,4 +1,4 @@
-﻿---
+---
 published: true
 title: 'Happy Birthday, Arduino Style'
 ---
