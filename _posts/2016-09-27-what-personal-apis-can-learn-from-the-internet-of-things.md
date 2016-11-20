@@ -1,5 +1,4 @@
----
-layout: post
+﻿---
 published: true
 title: What Personal APIs can learn from the Internet of Things
 ---

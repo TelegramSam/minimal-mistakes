@@ -1,5 +1,4 @@
 ---
-layout: post
 published: true
 title: Long Term Blogging Requirements
 ---

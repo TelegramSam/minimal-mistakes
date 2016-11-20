@@ -1,5 +1,4 @@
 ---
-layout: post
 published: false
 title: personal apis as data aggregators
 ---

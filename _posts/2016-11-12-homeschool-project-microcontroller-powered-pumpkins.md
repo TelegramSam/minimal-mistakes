@@ -1,5 +1,4 @@
 ---
-layout: post
 published: true
 title: 'Homeschool Project: Microcontroller Powered Pumpkins'
 ---
