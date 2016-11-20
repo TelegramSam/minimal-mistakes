@@ -3,6 +3,7 @@ published: true
 title: 'Happy Birthday, Arduino Style'
 ---
 ![rachel-arduino-airstream.jpg]({{site.baseurl}}/media/rachel-arduino-airstream.jpg)
+
 We homeschool our kids, which gives us flexibility in the curriculum department. This year, I decided that microcontroller programming would make a nice addition to school for my 11 and 9 year olds.
 
 I found a serendipitously timed [Kickstarter][ks] for the [Plumduino][plumduino], an Arduino based board board with 8 NeoPixel LEDs, two proximity sensors, a button, and a wonderful expansion board with two sliders, a microphone, piezo buzzer, IR transmit and IR receive with an included remote.
