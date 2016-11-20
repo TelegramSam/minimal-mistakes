@@ -2,6 +2,7 @@
 published: true
 title: What Personal APIs can learn from the Internet of Things
 ---
+
 ![IMG_20160428_204324698-01-500x418.jpeg]({{site.baseurl}}/media/IMG_20160428_204324698-01-500x418.jpeg)
 Many IoT devices exist in an occasionally connected state. For both battery and bandwidth conservation, most IoT devices are only intermittently connected. They sleep between data collection points, only connecting to cloud resources to transmit data for status. This presents a challenge in communication, placing the burden of interrupted communication on the consuming service.
 
